@@ -35,6 +35,8 @@ brew 'htop-osx'
 brew 'gist'
 brew 'dockutil'
 brew 'node'
+brew 'heroku'
+brew 'tig'
 
 # Apps
 cask 'virtualbox'
@@ -66,6 +68,7 @@ cask 'telegram'
 cask 'atext'
 cask 'libreoffice'
 cask 'sonos'
+cask 'atom'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
