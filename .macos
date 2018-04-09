@@ -27,8 +27,9 @@ if ! (test -e ~/.daniel-desktop); then
 	defaults write NSGlobalDomain NSNavPanelExpandedStateForSaveMode -bool true
 	defaults write NSGlobalDomain PMPrintingExpandedStateForPrint -bool true
 
-	# Disable shadow in screenshots
+	# Screenshots
 	defaults write com.apple.screencapture disable-shadow -bool true
+	defaults write com.apple.screencapture location ~/Downloads
 
 	# Finder
 	defaults write com.apple.finder ShowStatusBar -bool true
