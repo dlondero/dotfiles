@@ -37,6 +37,7 @@ brew 'dockutil'
 brew 'node'
 brew 'heroku'
 brew 'tig'
+brew 'sshfs'
 
 # Apps
 cask 'virtualbox'
@@ -69,6 +70,9 @@ cask 'atext'
 cask 'libreoffice'
 cask 'sonos'
 cask 'atom'
+cask 'postman'
+cask 'tunnelblick'
+cask 'osxfuse'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
