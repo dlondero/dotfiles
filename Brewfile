@@ -40,8 +40,6 @@ brew 'tig'
 brew 'sshfs'
 
 # Apps
-cask 'virtualbox'
-cask 'vagrant'
 cask 'phpstorm'
 cask 'sequel-pro'
 cask 'google-chrome'
@@ -73,6 +71,7 @@ cask 'atom'
 cask 'postman'
 cask 'tunnelblick'
 cask 'osxfuse'
+cask 'portfolioperformance'
 
 # Fonts
 cask 'font-source-code-pro-for-powerline'
